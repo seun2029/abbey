@@ -1,0 +1,15 @@
+h1{
+    background-color: purple;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    padding: 3em;
+    font-size: 30px;
+    border-style: dashed;
+
+}
+p{
+    font-size: 20px;
+    padding: 2em;
+    color: black;
+}

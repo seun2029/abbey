@@ -1,0 +1,247 @@
+Open Main Menu
+Font Awesome <https://fontawesome.com/>
+Start <https://fontawesome.com/start> Search Icons
+<https://fontawesome.com/search?s=solid%2Cbrands> Icons
+<https://fontawesome.com/icons> Docs <https://fontawesome.com/docs>
+Plans <https://fontawesome.com/plans> Support
+<https://fontawesome.com/support> Blog <https://blog.fontawesome.com/>
+
+Sign In
+<https://fontawesome.com/sessions/sign-in?next=%2Fsearch%3Fp%3D1%26q%3Dprofile%26s%3Dsolid%252Cbrands>
+
+
+  Font Awesome Icons
+
+Search the v6 Icons
+
+Need a starting search? Try close , check , alert , github , discord ,
+or retro .
+
+This icon search is powered by Algolia <https://algolia.com/>
+
+// Showing Solid style icons 19 matching results
+
+// Show Regular style icons 19 matching results
+
+// Show Light style icons 19 matching results
+
+// Show Thin style icons 19 matching results
+
+// Show Duotone style icons 19 matching results
+
+// Showing Brands style icons 0 matching results
+
+Show Filters
+Show icons in roomy display Show icons in compact display Show icons in
+cheatsheet display
+
+  *
+    Show Free icons 6 matching results
+
+  *
+    Show New in v6 icons 8 matching results
+
+  *
+    Show Sponsored icons 4 matching results
+
+*
+
+ads via Carbon
+<https://srv.carbonads.net/ads/click/x/GTND42JMCKAITK7NCV7LYKQNCW7I5K7UCT7I6Z3JCYBIC53JCW7IT27KCA7I5237CVADE2QYCKADEKQECE7DP5QKC6SDPK77CVSDVK3EHJNCLSIZ?segment=placement:fontawesome;>Ever wonder how JWT came to be? What problems it was designed to tackle? Auth0's got you covered. <https://srv.carbonads.net/ads/click/x/GTND42JMCKAITK7NCV7LYKQNCW7I5K7UCT7I6Z3JCYBIC53JCW7IT27KCA7I5237CVADE2QYCKADEKQECE7DP5QKC6SDPK77CVSDVK3EHJNCLSIZ?segment=placement:fontawesome;>ads via Carbon <http://carbonads.net/?utm_source=fontawesome&utm_medium=ad_via_link&utm_campaign=in_unit&utm_term=carbon>
+Advertisement
+
+
+    Remove ads with a Pro plan!
+
+Using this requires Font Awesome Pro Pro
+
+A subscription to a Pro-level plan will remove all third-party
+advertisments on fontawesome.com.
+
+
+      And of course Pro-level plans come with…
+
+  * All 16,083 Icons in Font Awesome
+  * Solid, Regular, Light, Thin, and Duotone Styles for Each Icon + Brands
+  * A Perpetual License to Use Pro
+  * Services and Tools to Make Easy Work of Using Icons
+  * Fresh Icons, Features, and Software Updates
+  * Plus Support From Real Humans
+
+Get Font Awesome Pro for only $99/yr
+
+Already have a Pro Plan? Sign in
+<https://fontawesome.com/sessions/sign-in?next=%2Fsearch%3Fp%3D1%26q%3Dprofile%26s%3Dsolid%252Cbrands>
+
+  *
+    // Show Businesscategory icons 2 matching results
+
+  *
+    // Show Communicationcategory icons 1 matching results
+
+  *
+    // Show Humanitariancategory icons 2 matching results
+
+  *
+    // Show Medical + Healthcategory icons 6 matching results
+
+  *
+    // Show Photos + Imagescategory icons 2 matching results
+
+  *
+    // Show Sciencecategory icons 1 matching results
+
+  *
+    // Show Securitycategory icons 3 matching results
+
+  *
+    // Show Socialcategory icons 1 matching results
+
+  *
+    // Show Users + Peoplecategory icons 19 matching results
+
+Update Icon Results
+
+
+  19 Icons
+
+  * “profile”
+  * style:
+      o solid <#>
+      o brands <#>
+  * ResetAll Filters + Queries
+
+
+  No Icons Found
+
+There are no icons that match your current filters. Try removing some of
+them to get better results.
+
+Clear All Filters + Start Over
+
+//
+
+
+    Request an Icon
+
+Suggest an icon idea to our Open Source community and vote it up the
+ranks of our icon leaderboard
+<https://fontawesome.com/community/leaderboard/new>.
+
+<https://fontawesome.com/community/leaderboard/new#request>
+//
+
+
+    Upload an Icon
+
+Upload your own icon to a kit and easily use it just like it an official
+Font Awesome icon!
+
+<https://fontawesome.com/docs/web/use-kits/upload-icons>
+//
+
+
+    Commission an Icon
+
+Absolutely need an icon? Sponsor it and we’ll design it for you and add
+it to Font Awesome.
+
+<https://fontawesome.com/#commissions>
+// address-card
+
+// file-user
+
+// head-side
+
+// head-side-brain
+
+// head-side-goggles
+
+// head-side-medical
+
+// id-badge
+
+// id-card
+
+// id-card-clip
+
+// square-user
+
+// user
+
+// user-doctor
+
+// user-doctor-hair
+
+// user-doctor-hair-long
+
+// user-hair
+
+// user-hair-long
+
+// user-vneck
+
+// user-vneck-hair
+
+// user-vneck-hair-long
+
+
+    Loading Icons
+
+Our spirit animal is fa-rabbit-running.
+
+This Taking a crazy long time? Let us know
+<mailto:hello@fontawesome.com?subject=I'm having trouble with Font
+Awesome 6's icons>.
+
+Font Awesome <https://fontawesome.com/>
+
+
+    Go Make Something Awesome
+
+Font Awesome is the internet's icon library and toolkit used by millions
+of designers, developers, and content creators.
+
+Made with loveand in Bentonville
+<https://www.google.com/maps/place/Bentonville,%20AR>, Boston
+<https://www.google.com/maps/place/Boston,%20MA>, Chicago
+<https://www.google.com/maps/place/Chicago,%20IL>, Grand Rapids
+<https://www.google.com/maps/place/Grand%20Rapids,%20MI>, Joplin
+<https://www.google.com/maps/place/Joplin,%20MO>, Kansas City
+<https://www.google.com/maps/place/Kansas%20City,%20MO>, Seattle
+<https://www.google.com/maps/place/Seattle,%20WA>, Tampa
+<https://www.google.com/maps/place/Tampa,%20FL>, and Vergennes
+<https://www.google.com/maps/place/Vergennes,%20VT>.
+
+
+      Project
+
+Changelog <https://fontawesome.com/docs/changelog> Status
+<https://status.fortawesome.com/> Commission Icons
+<https://fontawesome.com/#commissions> License
+<https://fontawesome.com/license> All Versions
+<https://fontawesome.com/versions>
+
+
+      Community
+
+GitHub <https://github.com/FortAwesome/Font-Awesome> Issues
+<https://github.com/FortAwesome/Font-Awesome/issues> Icon Requests
+<https://fontawesome.com/community/leaderboard/new> Twitter
+<https://twitter.com/fontawesome/>
+
+
+      Help
+
+Support <https://fontawesome.com/support> Troubleshooting
+<https://fontawesome.com/docs/web/troubleshoot> Contact Us
+<mailto:hello@fontawesome.com?subject=Hello, Font Awesome!>
+Terms of Service <https://fontawesome.com/tos> Privacy Policy
+<https://fontawesome.com/privacy>
+
+© Fonticons, Inc.
+
+Close
+
+cross-small
+

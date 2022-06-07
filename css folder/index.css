@@ -1,0 +1,128 @@
+.body {
+    width: 1200px;
+}
+p{
+    color: green;
+    
+    font-size: large;
+
+    width: 500px;
+
+    border: 1px solid black;
+}
+
+html {
+
+    font-size: 10px;
+
+    font-family: "open sans", sans-serif;
+}
+  
+h1 {
+
+    font-size: 30px;
+
+    text-align: center;
+}
+
+p, li {
+
+    font-size: 16px;
+
+    line-height: 2;
+
+    letter-spacing: 1px;
+}
+
+h2 {
+
+    font-size: 16px;
+
+    text-align: center;
+}
+
+h3 {
+    font-size: 16px;
+
+    text-align: center;
+}
+
+html {
+    background-color: blue;
+}
+
+body {
+
+    width: 600px;
+
+    margin: 0 auto;
+
+    background-color:white;
+
+    padding: 0 20px 20px 20px;
+
+    border: 5px solid black;
+} 
+
+h1 {
+
+    margin: 0;
+
+    padding: 20px 0;
+
+    color: black;
+
+    text-shadow: 3px 3px 3px black;
+}
+
+image {
+
+    display: block;
+    margin: 0 auto;
+}
+
+li{
+    margin-left: 10px;
+}
+
+.special {
+
+    color: blue;
+    font-weight: bold;
+}
+
+li.special{
+
+    color: orange;
+    font-weight: bold;
+}
+
+li.special
+span.special{
+    color: orange;
+    font-weight: bold;
+}
+
+h1 + p {
+
+    font-size: 200%;
+} 
+
+h2 p strong{  color: rebeccapurple;
+    
+
+} 
+em{
+    color: rebeccapurple;
+}
+
+h1 p{
+    text-align: center;
+}
+h2 p{
+    text-align: center;
+}
+
+
+
+ 
