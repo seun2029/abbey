@@ -13,3 +13,30 @@ h3{
     font-size: xx-large;
     color: blue;
 }
+
+nav a, nav span {
+    display: inline-block;
+    font-size: 2rem;
+    height: 3rem;
+    line-height: 1.7;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+
+    nav li {
+        display: inline;
+        text-align: center;
+        flex: 1;
+
+        nav {
+            height: 50px;
+            flex: 100%;
+            display: flex;
+          }
+          
+          nav ul {
+            padding: 0;
+            list-style-type: none;
+            flex: 2;
+            display: flex;
+          }
